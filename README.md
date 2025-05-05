@@ -9,7 +9,7 @@
 📁 Checkout my portfolio: [Visit My Website](https://ishusgit.github.io/Iswarya-Portfolio/)
 
 📫 How to reach me: agamithraishu03@gmail.com
-🔗 watsup: +62 82245555723
+🔗 watsup: https://wa.me/6282245555723
 📄 [Download My Resume](https://portfolio-iswarya.netlify.app/assets/portfolio_images/Iswarya-Resume-pdf.pdf)
 
 ---
